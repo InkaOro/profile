@@ -74,6 +74,7 @@ a:hover {
 }
 .img-circle {
   border-radius: 50%;
+  object-fit: cover;
 }
 .btn-blue {
   background-color: #6B72E1;
